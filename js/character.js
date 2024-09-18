@@ -14,7 +14,8 @@ class Character{
             "weapon":[
                 {"name":"Fist","damage":1},
                 {"name":"Sword","damage":5},
-                {"name":"Axe","damage":7},{"name":"Bow","damage":4},
+                {"name":"Axe","damage":7},
+                {"name":"Bow","damage":4},
                 {"name":"Crossbow","damage":6},
                 {"name":"Staff","damage":3},
                 {"name":"Spear","damage":6},
